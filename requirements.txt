@@ -1,9 +1,14 @@
 mujoco_py
-numpy
+numpy == 1.18
 simple_pid
 termcolor
-ikpy
+ikpy == 3.1
 pyquaternion
 opencv-python
 matplotlib
-gym
+torch
+torchvision
+prettytable
+scipy
+google-auth == 2.18
+gym == 0.21
