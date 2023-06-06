@@ -1,5 +1,5 @@
-mujoco_py
-numpy == 1.18
+mujoco_py == 2.0.2.5
+numpy 
 simple_pid
 termcolor
 ikpy == 3.1
@@ -10,5 +10,7 @@ torch
 torchvision
 prettytable
 scipy
-google-auth == 2.18
+cffi
+scikit-build
+google-auth
 gym == 0.21
